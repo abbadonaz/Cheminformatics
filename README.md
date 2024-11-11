@@ -12,6 +12,7 @@ A list of simple cheminformatics projects:
 
 
 A list of extremely useful resources, which helped me to improve my knowledge efficiently:
+ - [RDKit blog](https://greglandrum.github.io/rdkit-blog/)
  - [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/)
  - [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/index.html)
  - [Is life worth living? blog of personal interest](https://iwatobipen.wordpress.com/)
